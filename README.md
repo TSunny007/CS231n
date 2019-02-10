@@ -17,4 +17,4 @@ This homework goes into depth some [Neural Network concepts](https://nbviewer.ju
 * Multilayer Forward and Backward propagation
 * Update rules such as SGD+momentum, RMSProp, Adam
 * Batch normalization and Dropout
-* [Tensorflow](https://nbviewer.jupyter.org/github/TarunSunkaraneni/CS6955/blob/master/HW2/tensorflow.ipynb)
+* [Tensorflow] Barebone, Model, and Keras APIs (https://nbviewer.jupyter.org/github/TarunSunkaraneni/CS6955/blob/master/HW2/tensorflow.ipynb)
